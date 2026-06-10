@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NzECabe_m6l_1s2Z9Ows-72" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=28;fontStyle=1;fontColor=#111111;" value="Apache ShardingSphere 技术方案流程图" vertex="1">
-          <mxGeometry height="40" width="840" x="2315" y="550" as="geometry" />
+          <mxGeometry height="40" width="840" x="2300" y="500" as="geometry" />
         </mxCell>
         <mxCell id="NzECabe_m6l_1s2Z9Ows-73" edge="1" parent="1" source="NzECabe_m6l_1s2Z9Ows-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="NzECabe_m6l_1s2Z9Ows-91">
           <mxGeometry relative="1" as="geometry" />
