@@ -13,10 +13,10 @@
         <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=30;fontFamily=Comic Sans MS;" value="数据库网关流程图" vertex="1">
           <mxGeometry height="45" width="400" x="600" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="label_init" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9fb7d5;dashed=1;dashPattern=8 6;strokeWidth=1.5;fontSize=20;fontFamily=Comic Sans MS;sketch=1;" value="上下文初始化" vertex="1">
+        <mxCell id="label_init" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#9fb7d5;dashed=1;dashPattern=8 6;strokeWidth=1.5;fontSize=20;fontFamily=Comic Sans MS;sketch=1;" value="上下文初始化" vertex="1">
           <mxGeometry height="55" width="220" x="295" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="label_sql" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9fb7d5;dashed=1;dashPattern=8 6;strokeWidth=1.5;fontSize=20;fontFamily=Comic Sans MS;sketch=1;" value="SQL 查询执行" vertex="1">
+        <mxCell id="label_sql" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#9fb7d5;dashed=1;dashPattern=8 6;strokeWidth=1.5;fontSize=20;fontFamily=Comic Sans MS;sketch=1;" value="SQL 查询执行" vertex="1">
           <mxGeometry height="55" width="230" x="650" y="795" as="geometry" />
         </mxCell>
         <mxCell id="client" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;arcSize=18;fontSize=26;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;hachureAngle=60;" value="客户端" vertex="1">
