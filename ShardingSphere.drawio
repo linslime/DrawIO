@@ -1,71 +1,72 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="JXP6vtLktYKohG2WaUN-">
-    <mxGraphModel dx="1543" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="2818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=28;fontStyle=1;fontColor=#111111;" value="Apache ShardingSphere 技术方案流程图" vertex="1">
-          <mxGeometry height="40" width="840" x="380" y="20" as="geometry" />
+          <mxGeometry height="40" width="840" x="180" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="jGkyVLbFk-IY6d_FUv_l-21" edge="1" parent="1" source="access_group" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="core_header">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="access_group" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=none;strokeColor=#1976D2;strokeWidth=2;dashed=1;dashPattern=8 6;" value="" vertex="1">
-          <mxGeometry height="230" width="660" x="20" y="80" as="geometry" />
+          <mxGeometry height="282" width="660" x="270" y="-28" as="geometry" />
         </mxCell>
         <mxCell id="access_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#F8FBFF;strokeColor=#1976D2;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;fontColor=#1565C0;" value="接入层" vertex="1">
-          <mxGeometry height="34" width="120" x="290" y="62" as="geometry" />
+          <mxGeometry height="34" width="120" x="540" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="java_app" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Java 业务应用" vertex="1">
-          <mxGeometry height="70" width="150" x="50" y="120" as="geometry" />
+          <mxGeometry height="70" width="150" x="340" y="-6" as="geometry" />
         </mxCell>
         <mxCell id="poly_app" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="多语言业务系统" vertex="1">
-          <mxGeometry height="70" width="150" x="50" y="220" as="geometry" />
+          <mxGeometry height="70" width="150" x="680" y="-6" as="geometry" />
         </mxCell>
         <mxCell id="jdbc" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="ShardingSphere-JDBC" vertex="1">
-          <mxGeometry height="70" width="230" x="420" y="120" as="geometry" />
+          <mxGeometry height="70" width="230" x="300" y="164" as="geometry" />
         </mxCell>
         <mxCell id="proxy" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="ShardingSphere-Proxy" vertex="1">
-          <mxGeometry height="70" width="230" x="420" y="220" as="geometry" />
+          <mxGeometry height="70" width="230" x="640" y="164" as="geometry" />
         </mxCell>
-        <mxCell id="e_java_jdbc" edge="1" parent="1" source="java_app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="jdbc" value="1. JDBC 接入">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e_java_jdbc" edge="1" parent="1" source="java_app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;labelBackgroundColor=none;" target="jdbc" value="1. JDBC 接入">
+          <mxGeometry relative="1" y="25" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="e_poly_proxy" edge="1" parent="1" source="poly_app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="proxy" value="2. MySQL / PostgreSQL 协议">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="note_access" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;" value="双入口接入&lt;br&gt;JDBC：嵌入式&lt;br&gt;Proxy：独立代理" vertex="1">
-          <mxGeometry height="95" width="160" x="790" y="147.5" as="geometry" />
+        <mxCell id="e_poly_proxy" edge="1" parent="1" source="poly_app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;labelBackgroundColor=none;" target="proxy" value="2. MySQL / PostgreSQL 协议">
+          <mxGeometry relative="1" y="-25" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rules_group" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=none;strokeColor=#1976D2;strokeWidth=2;dashed=1;dashPattern=8 6;" value="" vertex="1">
-          <mxGeometry height="380" width="310" x="20" y="560" as="geometry" />
+          <mxGeometry height="250" width="310" x="20" y="625" as="geometry" />
         </mxCell>
         <mxCell id="rules_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#F8FBFF;strokeColor=#1976D2;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;fontColor=#1565C0;" value="规则能力层" vertex="1">
-          <mxGeometry height="34" width="160" x="95" y="537" as="geometry" />
+          <mxGeometry height="34" width="160" x="95" y="602" as="geometry" />
         </mxCell>
         <mxCell id="rule_shard" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="分库分表" vertex="1">
-          <mxGeometry height="50" width="115" x="50" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="rule_rw" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="读写分离" vertex="1">
-          <mxGeometry height="50" width="115" x="178" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="rule_encrypt" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="数据加密" vertex="1">
           <mxGeometry height="50" width="115" x="50" y="665" as="geometry" />
         </mxCell>
-        <mxCell id="rule_mask" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="数据脱敏" vertex="1">
+        <mxCell id="rule_rw" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="读写分离" vertex="1">
           <mxGeometry height="50" width="115" x="178" y="665" as="geometry" />
         </mxCell>
-        <mxCell id="rule_tx" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="分布式事务" vertex="1">
+        <mxCell id="rule_encrypt" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="数据加密" vertex="1">
           <mxGeometry height="50" width="115" x="50" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="rule_fed" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="SQL 联邦查询" vertex="1">
+        <mxCell id="rule_mask" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="数据脱敏" vertex="1">
           <mxGeometry height="50" width="115" x="178" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="note_rules" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;" value="规则驱动&lt;br&gt;主流程稳定&lt;br&gt;能力可扩展" vertex="1">
-          <mxGeometry height="80" width="180" x="70" y="825" as="geometry" />
+        <mxCell id="rule_tx" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="分布式事务" vertex="1">
+          <mxGeometry height="50" width="115" x="50" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="rule_fed" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="SQL 联邦查询" vertex="1">
+          <mxGeometry height="50" width="115" x="178" y="795" as="geometry" />
         </mxCell>
         <mxCell id="core_group" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=none;strokeColor=#1976D2;strokeWidth=2;dashed=1;dashPattern=8 6;" value="" vertex="1">
           <mxGeometry height="600" width="380" x="410" y="360" as="geometry" />
         </mxCell>
         <mxCell id="core_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#F8FBFF;strokeColor=#1976D2;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;fontColor=#1565C0;" value="统一 SQL 内核" vertex="1">
-          <mxGeometry height="34" width="170" x="515" y="340" as="geometry" />
+          <mxGeometry height="34" width="170" x="515" y="342.5" as="geometry" />
         </mxCell>
         <mxCell id="core_panel" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#F7FBFF;strokeColor=#1976D2;strokeWidth=3;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;fontColor=#111111;verticalAlign=top;spacingTop=12;" value="ShardingSphere SQL 内核" vertex="1">
           <mxGeometry height="530" width="330" x="435" y="390" as="geometry" />
@@ -79,8 +80,14 @@
         <mxCell id="queryctx" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="③ QueryContext&lt;br&gt;生成 SQL 上下文" vertex="1">
           <mxGeometry height="58" width="270" x="465" y="605" as="geometry" />
         </mxCell>
+        <mxCell id="jGkyVLbFk-IY6d_FUv_l-17" edge="1" parent="1" source="route" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;dashed=1;" target="rules_group">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="route" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="④ Route&lt;br&gt;规则路由" vertex="1">
           <mxGeometry height="58" width="270" x="465" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="jGkyVLbFk-IY6d_FUv_l-18" edge="1" parent="1" source="rewrite" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;dashed=1;" target="rules_group">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rewrite" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="⑤ Rewrite&lt;br&gt;改写真实 SQL" vertex="1">
           <mxGeometry height="58" width="270" x="465" y="765" as="geometry" />
@@ -103,35 +110,14 @@
         <mxCell id="e_step_4" edge="1" parent="1" source="rewrite" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="executor" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_rules_route" edge="1" parent="1" source="rules_group" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="route" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="note_parse" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;" value="&lt;b&gt;SQL 解析示例&lt;/b&gt;&lt;br&gt;select * from t_order&lt;br&gt;where user_id = ?" vertex="1">
-          <mxGeometry height="90" width="170" x="820" y="429" as="geometry" />
-        </mxCell>
-        <mxCell id="note_route" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;" value="&lt;b&gt;SQL 路由示例&lt;/b&gt;&lt;br&gt;逻辑表：t_order&lt;br&gt;→ ds_0.t_order_0&lt;br&gt;→ ds_1.t_order_1" vertex="1">
-          <mxGeometry height="105" width="170" x="820" y="625" as="geometry" />
-        </mxCell>
-        <mxCell id="note_rewrite" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;" value="&lt;b&gt;SQL 改写示例&lt;/b&gt;&lt;br&gt;select * from t_order&lt;br&gt;→ select * from t_order_0" vertex="1">
-          <mxGeometry height="90" width="170" x="820" y="749" as="geometry" />
-        </mxCell>
-        <mxCell id="e_note_parse" edge="1" parent="1" source="note_parse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#D69A00;dashed=1;dashPattern=6 5;fontSize=14;fontFamily=Microsoft YaHei;" target="parser" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e_note_route" edge="1" parent="1" source="note_route" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#D69A00;dashed=1;dashPattern=6 5;fontSize=14;fontFamily=Microsoft YaHei;" target="route" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e_note_rewrite" edge="1" parent="1" source="note_rewrite" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#D69A00;dashed=1;dashPattern=6 5;fontSize=14;fontFamily=Microsoft YaHei;" target="rewrite" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="exec_group" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=none;strokeColor=#1976D2;strokeWidth=2;dashed=1;dashPattern=8 6;" value="" vertex="1">
-          <mxGeometry height="757" width="520" x="1030" y="253" as="geometry" />
+          <mxGeometry height="587" width="520" x="920" y="391.5" as="geometry" />
         </mxCell>
         <mxCell id="exec_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#F8FBFF;strokeColor=#1976D2;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;fontColor=#1565C0;" value="真实执行与结果归并" vertex="1">
-          <mxGeometry height="34" width="240" x="1170" y="238" as="geometry" />
+          <mxGeometry height="34" width="240" x="1060" y="376.5" as="geometry" />
         </mxCell>
         <mxCell id="exec_context" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="ExecutionContext" vertex="1">
-          <mxGeometry height="50" width="180" x="1200" y="290" as="geometry" />
+          <mxGeometry height="50" width="180" x="1090" y="428.5" as="geometry" />
         </mxCell>
         <mxCell id="jGkyVLbFk-IY6d_FUv_l-8" edge="1" parent="1" source="real_unit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="shard_0">
           <mxGeometry relative="1" as="geometry" />
@@ -140,28 +126,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="real_unit" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="真实 SQL 执行单元" vertex="1">
-          <mxGeometry height="50" width="180" x="1200" y="390" as="geometry" />
+          <mxGeometry height="50" width="180" x="1090" y="528.5" as="geometry" />
         </mxCell>
         <mxCell id="e_execctx_real" edge="1" parent="1" source="exec_context" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="real_unit" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="parallel_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#111111;" value="并发执行" vertex="1">
-          <mxGeometry height="30" width="100" x="1290" y="440" as="geometry" />
+          <mxGeometry height="30" width="100" x="1180" y="578.5" as="geometry" />
         </mxCell>
         <mxCell id="jGkyVLbFk-IY6d_FUv_l-10" edge="1" parent="1" source="shard_0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="multi_rs">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="shard_0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="ds_0.t_order_0" vertex="1">
-          <mxGeometry height="38" width="105" x="1060" y="508" as="geometry" />
+          <mxGeometry height="38" width="105" x="950" y="646.5" as="geometry" />
         </mxCell>
         <mxCell id="shard_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="ds_0.t_order_1" vertex="1">
-          <mxGeometry height="38" width="105" x="1180" y="508" as="geometry" />
+          <mxGeometry height="38" width="105" x="1070" y="646.5" as="geometry" />
         </mxCell>
         <mxCell id="e_unit_shard_1" edge="1" parent="1" source="real_unit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="shard_1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="shard_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="ds_1.t_order_0" vertex="1">
-          <mxGeometry height="38" width="105" x="1300" y="508" as="geometry" />
+          <mxGeometry height="38" width="105" x="1190" y="646.5" as="geometry" />
         </mxCell>
         <mxCell id="e_unit_shard_2" edge="1" parent="1" source="real_unit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="shard_2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -170,10 +156,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="shard_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="ds_1.t_order_1" vertex="1">
-          <mxGeometry height="38" width="105" x="1420" y="508" as="geometry" />
+          <mxGeometry height="38" width="105" x="1310" y="646.5" as="geometry" />
         </mxCell>
         <mxCell id="multi_rs" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=none;" value="多个 ResultSet" vertex="1">
-          <mxGeometry height="45" width="180" x="1200" y="620" as="geometry" />
+          <mxGeometry height="45" width="180" x="1090" y="758.5" as="geometry" />
         </mxCell>
         <mxCell id="e_shard_rs_1" edge="1" parent="1" source="shard_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="multi_rs" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -182,10 +168,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="merger" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=none;" value="Result Merger" vertex="1">
-          <mxGeometry height="45" width="180" x="1200" y="691.5" as="geometry" />
+          <mxGeometry height="45" width="180" x="1090" y="830" as="geometry" />
         </mxCell>
         <mxCell id="logic_rs" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=none;" value="返回一个逻辑结果" vertex="1">
-          <mxGeometry height="45" width="180" x="1200" y="758" as="geometry" />
+          <mxGeometry height="45" width="180" x="1090" y="896.5" as="geometry" />
         </mxCell>
         <mxCell id="e_rs_merger" edge="1" parent="1" source="multi_rs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="merger" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -193,10 +179,7 @@
         <mxCell id="e_merger_logic" edge="1" parent="1" source="merger" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="logic_rs" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="note_merge" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=20;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;" value="归并处理&lt;br&gt;排序 / 分页 / 聚合 / 去重" vertex="1">
-          <mxGeometry height="120" width="260" x="1160" y="860" as="geometry" />
-        </mxCell>
-        <mxCell id="e_core_exec" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;" target="exec_group" value="">
+        <mxCell id="e_core_exec" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="exec_group" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="735" y="877.0000000000002" as="sourcePoint" />
             <mxPoint x="1029.48" y="909.3750000000002" as="targetPoint" />
@@ -240,18 +223,6 @@
         </mxCell>
         <mxCell id="e_summary_4" edge="1" parent="1" source="summary_4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;fontSize=14;fontFamily=Microsoft YaHei;" target="summary_5" value="">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jGkyVLbFk-IY6d_FUv_l-4" edge="1" parent="1" source="rules_group" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="rewrite">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jGkyVLbFk-IY6d_FUv_l-12" edge="1" parent="1" source="jdbc" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.845;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="core_group">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jGkyVLbFk-IY6d_FUv_l-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.843;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="651" y="255" as="sourcePoint" />
-            <mxPoint x="731.3400000000001" y="360.5999999999999" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
