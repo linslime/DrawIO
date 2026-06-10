@@ -11,7 +11,7 @@
           <mxGeometry height="230" width="660" x="20" y="80" as="geometry" />
         </mxCell>
         <mxCell id="access_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#F8FBFF;strokeColor=#1976D2;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;fontColor=#1565C0;" value="接入层" vertex="1">
-          <mxGeometry height="34" width="120" x="170" y="62" as="geometry" />
+          <mxGeometry height="34" width="120" x="290" y="62" as="geometry" />
         </mxCell>
         <mxCell id="java_app" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Java 业务应用" vertex="1">
           <mxGeometry height="70" width="150" x="50" y="120" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry height="380" width="310" x="20" y="560" as="geometry" />
         </mxCell>
         <mxCell id="rules_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#F8FBFF;strokeColor=#1976D2;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;fontColor=#1565C0;" value="规则能力层" vertex="1">
-          <mxGeometry height="34" width="160" x="82" y="540" as="geometry" />
+          <mxGeometry height="34" width="160" x="95" y="537" as="geometry" />
         </mxCell>
         <mxCell id="rule_shard" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="分库分表" vertex="1">
           <mxGeometry height="50" width="115" x="50" y="600" as="geometry" />
