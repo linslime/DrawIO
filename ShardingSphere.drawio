@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="JXP6vtLktYKohG2WaUN-">
-    <mxGraphModel dx="963" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="-319" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NzECabe_m6l_1s2Z9Ows-72" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=28;fontStyle=1;fontColor=#111111;" value="Apache ShardingSphere 技术方案流程图" vertex="1">
           <mxGeometry height="40" width="840" x="2300" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="NzECabe_m6l_1s2Z9Ows-73" edge="1" parent="1" source="NzECabe_m6l_1s2Z9Ows-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="NzECabe_m6l_1s2Z9Ows-91">
+        <mxCell id="NzECabe_m6l_1s2Z9Ows-73" edge="1" parent="1" source="NzECabe_m6l_1s2Z9Ows-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="NzECabe_m6l_1s2Z9Ows-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NzECabe_m6l_1s2Z9Ows-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=none;strokeColor=#1976D2;strokeWidth=2;dashed=1;dashPattern=8 6;" value="" vertex="1">
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="NzECabe_m6l_1s2Z9Ows-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="ShardingSphere-JDBC" vertex="1">
           <mxGeometry height="70" width="230" x="2435" y="804" as="geometry" />
+        </mxCell>
+        <mxCell id="NzECabe_m6l_1s2Z9Ows-143" edge="1" parent="1" source="NzECabe_m6l_1s2Z9Ows-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.8;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="NzECabe_m6l_1s2Z9Ows-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NzECabe_m6l_1s2Z9Ows-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;sketch=1;hachureGap=4;hachureAngle=60;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="ShardingSphere-Proxy" vertex="1">
           <mxGeometry height="70" width="230" x="2775" y="804" as="geometry" />
