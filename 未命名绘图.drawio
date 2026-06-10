@@ -52,13 +52,9 @@
         <mxCell id="sql_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;arcSize=20;fontSize=15;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;hachureAngle=60;" value="SQL 模板示例&lt;br&gt;select * from xxx&lt;br&gt;where user_id = :plainId" vertex="1">
           <mxGeometry height="95" width="280" x="75" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="e1" edge="1" parent="1" source="client" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="1. 上传 encryptedId + key">
+        <mxCell id="e1" edge="1" parent="1" source="client" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="1. 上传 encryptedId + key">
           <mxGeometry relative="1" x="-0.0333" y="36" as="geometry">
             <mxPoint x="-6" y="-20" as="offset" />
-            <Array as="points">
-              <mxPoint x="430" y="270" />
-              <mxPoint x="610" y="400" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e2" edge="1" parent="1" source="gateway" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=15;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="redis" value="2. 生成 contextId&lt;br&gt;存储 encryptedId + key">
@@ -70,13 +66,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3" edge="1" parent="1" source="biz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="3. 发送 SQL 模板 + contextId">
+        <mxCell id="e3" edge="1" parent="1" source="biz" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="3. 发送 SQL 模板 + contextId">
           <mxGeometry relative="1" x="0.0833" y="25" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="410" y="535" />
-              <mxPoint x="610" y="535" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e4" edge="1" parent="1" source="redis" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=15;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="4. 根据 contextId&lt;br&gt;取 encryptedId + key">
