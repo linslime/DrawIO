@@ -65,7 +65,7 @@
           <mxGeometry height="600" width="380" x="410" y="360" as="geometry" />
         </mxCell>
         <mxCell id="core_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#F8FBFF;strokeColor=#1976D2;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;fontColor=#1565C0;" value="统一 SQL 内核" vertex="1">
-          <mxGeometry height="34" width="170" x="440" y="340" as="geometry" />
+          <mxGeometry height="34" width="170" x="515" y="340" as="geometry" />
         </mxCell>
         <mxCell id="core_panel" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#F7FBFF;strokeColor=#1976D2;strokeWidth=3;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;fontColor=#111111;verticalAlign=top;spacingTop=12;" value="ShardingSphere SQL 内核" vertex="1">
           <mxGeometry height="530" width="330" x="435" y="390" as="geometry" />
