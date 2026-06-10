@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lDtMVX3rfUzubP_undm2">
-    <mxGraphModel dx="1543" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,10 +17,18 @@
           <mxGeometry height="55" width="220" x="295" y="70" as="geometry" />
         </mxCell>
         <mxCell id="label_sql" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#9fb7d5;dashed=1;dashPattern=8 6;strokeWidth=1.5;fontSize=20;fontFamily=Comic Sans MS;sketch=1;" value="SQL 查询执行" vertex="1">
-          <mxGeometry height="55" width="230" x="650" y="810" as="geometry" />
+          <mxGeometry height="55" width="230" x="285" y="423" as="geometry" />
+        </mxCell>
+        <mxCell id="sLOIYrqj3TXDrxTKQ_k1-3" edge="1" parent="1" source="client" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;" target="biz">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLOIYrqj3TXDrxTKQ_k1-4" connectable="0" parent="sLOIYrqj3TXDrxTKQ_k1-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;points=[];rounded=0;sketch=1;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=16;fontColor=default;labelBackgroundColor=none;" value="业务请求" vertex="1">
+          <mxGeometry relative="1" x="-0.0603" y="-3" as="geometry">
+            <mxPoint x="3" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="client" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;arcSize=18;fontSize=26;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;hachureAngle=60;" value="客户端" vertex="1">
-          <mxGeometry height="95" width="190" x="70" y="150" as="geometry" />
+          <mxGeometry height="95" width="190" x="70" y="160" as="geometry" />
         </mxCell>
         <mxCell id="biz" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#2b78e4;strokeWidth=2;arcSize=18;fontSize=26;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;hachureAngle=60;" value="业务端" vertex="1">
           <mxGeometry height="100" width="190" x="70" y="570" as="geometry" />
@@ -37,27 +45,27 @@
         <mxCell id="s1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2b78e4;strokeWidth=2;arcSize=8;fontSize=17;fontFamily=Comic Sans MS;sketch=1;" value="① 查 Redis" vertex="1">
           <mxGeometry height="45" width="335" x="645" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="s2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2b78e4;strokeWidth=2;arcSize=8;fontSize=17;fontFamily=Comic Sans MS;sketch=1;" value="② 解密得到 plainId" vertex="1">
+        <mxCell id="s2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2b78e4;strokeWidth=2;arcSize=8;fontSize=17;fontFamily=Comic Sans MS;sketch=1;" value="② 解密得到明文 ID" vertex="1">
           <mxGeometry height="45" width="335" x="645" y="485" as="geometry" />
         </mxCell>
-        <mxCell id="s3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2b78e4;strokeWidth=2;arcSize=8;fontSize=17;fontFamily=Comic Sans MS;sketch=1;" value="③ 绑定 SQL 参数 :plainId" vertex="1">
+        <mxCell id="s3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2b78e4;strokeWidth=2;arcSize=8;fontSize=17;fontFamily=Comic Sans MS;sketch=1;" value="③ 绑定 SQL 参数" vertex="1">
           <mxGeometry height="45" width="335" x="645" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="s4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2b78e4;strokeWidth=2;arcSize=8;fontSize=17;fontFamily=Comic Sans MS;sketch=1;" value="④ NamedParameterJdbcTemplate 执行" vertex="1">
+        <mxCell id="s4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2b78e4;strokeWidth=2;arcSize=8;fontSize=17;fontFamily=Comic Sans MS;sketch=1;" value="④ 执行 SQL" vertex="1">
           <mxGeometry height="45" width="335" x="645" y="635" as="geometry" />
         </mxCell>
-        <mxCell id="redis_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;arcSize=20;fontSize=16;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;hachureAngle=60;" value="ctx_001 → encryptedId + key" vertex="1">
+        <mxCell id="redis_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;arcSize=20;fontSize=16;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;hachureAngle=60;" value="密文ID → 密钥" vertex="1">
           <mxGeometry height="60" width="300" x="1050" y="143" as="geometry" />
         </mxCell>
-        <mxCell id="sql_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;arcSize=20;fontSize=15;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;hachureAngle=60;" value="SQL 模板示例&lt;br&gt;select * from xxx&lt;br&gt;where user_id = :plainId" vertex="1">
-          <mxGeometry height="95" width="280" x="75" y="740" as="geometry" />
+        <mxCell id="sql_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d79b00;strokeWidth=2;arcSize=20;fontSize=15;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;hachureAngle=60;" value="SQL 模板示例&lt;br&gt;select * from xxx&lt;br&gt;where id = :plaintextId" vertex="1">
+          <mxGeometry height="95" width="280" x="25" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="e1" edge="1" parent="1" source="client" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="1. 上传 encryptedId + key">
+        <mxCell id="e1" edge="1" parent="1" source="client" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="1. 上传密文ID + 密钥">
           <mxGeometry relative="1" x="-0.0333" y="36" as="geometry">
             <mxPoint x="-6" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2" edge="1" parent="1" source="gateway" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=15;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="redis" value="2. 生成 contextId&lt;br&gt;存储 encryptedId + key">
+        <mxCell id="e2" edge="1" parent="1" source="gateway" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=15;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="redis" value="2.&amp;nbsp;存储密文ID + 密钥">
           <mxGeometry relative="1" x="0.0606" y="113" as="geometry">
             <mxPoint y="-1" as="offset" />
             <Array as="points">
@@ -66,12 +74,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3" edge="1" parent="1" source="biz" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="3. 发送 SQL 模板 + contextId">
+        <mxCell id="e3" edge="1" parent="1" source="biz" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="3. 发送 SQL 模板 + 密文 ID">
           <mxGeometry relative="1" x="0.0833" y="25" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e4" edge="1" parent="1" source="redis" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=15;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="4. 根据 contextId&lt;br&gt;取 encryptedId + key">
+        <mxCell id="e4" edge="1" parent="1" source="redis" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=15;fontFamily=Comic Sans MS;sketch=1;labelBackgroundColor=none;" target="gateway" value="4. 根据密文ID 取密钥">
           <mxGeometry relative="1" x="-0.0606" y="90" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
