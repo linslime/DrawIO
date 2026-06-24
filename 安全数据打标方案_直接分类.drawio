@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="O6OdnoE2uYeRQ8ACVb-3">
-    <mxGraphModel dx="3164" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3071" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="step2_num" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=1;strokeWidth=2;sketch=1;rough=1;fontColor=#000000;" value="2" vertex="1">
           <mxGeometry height="55" width="55" x="400" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="step2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacing=8;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="按云核白样本标准&lt;br&gt;输出：具体二级标签 / 其他白样本" vertex="1">
+        <mxCell id="step2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacing=8;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="按云核白样本标准&lt;div&gt;输入：所有云核二级标签&lt;br&gt;输出：具体二级标签 / 其他白样本&lt;/div&gt;" vertex="1">
           <mxGeometry height="115" width="350" x="485" y="600" as="geometry" />
         </mxCell>
         <mxCell id="decision2" parent="1" style="rhombus;whiteSpace=wrap;html=1;spacing=8;fillColor=#ffffff;strokeColor=#000000;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;" value="第二次&lt;br&gt;结果" vertex="1">
