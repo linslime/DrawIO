@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="owwa6cwXrQey1AcPrrQi-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;rough=1;fillColor=#ffffff;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=22;fontStyle=1;spacing=8;" value="层级递进分类流程" vertex="1">
-          <mxGeometry height="60" width="270" x="310" y="200" as="geometry" />
-        </mxCell>
         <mxCell id="owwa6cwXrQey1AcPrrQi-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;rough=1;fontFamily=Comic Sans MS;fontSize=16;spacing=8;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="云核一级标签" vertex="1">
           <mxGeometry height="115" width="190" x="340" y="340" as="geometry" />
         </mxCell>
@@ -72,6 +69,9 @@
             <mxPoint x="1475" y="455" as="sourcePoint" />
             <mxPoint x="1475" y="525" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3mY6m-3xeI_cgaItluyr-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 34px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;层级递进分类流程&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="940" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
