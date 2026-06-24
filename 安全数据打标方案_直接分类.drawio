@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="O6OdnoE2uYeRQ8ACVb-3">
+    <mxGraphModel dx="3164" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=34;fontStyle=1;" value="四野三级细分 + 云核二级细分" vertex="1">
+          <mxGeometry height="55" width="560" x="430" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sample" parent="1" style="rounded=0;whiteSpace=wrap;html=1;spacing=8;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;" value="待分类样本" vertex="1">
+          <mxGeometry height="95" width="205" x="-90" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="step1_num" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=1;strokeWidth=2;sketch=1;rough=1;fontColor=#000000;" value="1" vertex="1">
+          <mxGeometry height="55" width="55" x="330" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="step1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacing=8;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="输入：所有四野三级标签 + 违规描述&lt;br&gt;输出：四野三级标签 / 其他黑样本 / 白样本" vertex="1">
+          <mxGeometry height="135" width="330" x="200" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="decision1" parent="1" style="rhombus;whiteSpace=wrap;html=1;spacing=8;fillColor=#ffffff;strokeColor=#000000;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;" value="第一次&lt;br&gt;结果" vertex="1">
+          <mxGeometry height="110" width="125" x="597.5" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="black" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacing=8;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;align=center;verticalAlign=middle;" value="黑样本&lt;br&gt;&lt;span style=&#39;font-size:14px&#39;&gt;四野一、二、三级标签 + 违规描述&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="280" x="1120" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="other_black" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacing=8;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;align=center;verticalAlign=middle;" value="其他黑样本" vertex="1">
+          <mxGeometry height="88" width="270" x="1130" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="step2_num" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=1;strokeWidth=2;sketch=1;rough=1;fontColor=#000000;" value="2" vertex="1">
+          <mxGeometry height="55" width="55" x="400" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="step2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacing=8;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="按云核白样本标准&lt;br&gt;输出：具体二级标签 / 其他白样本" vertex="1">
+          <mxGeometry height="115" width="350" x="485" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="decision2" parent="1" style="rhombus;whiteSpace=wrap;html=1;spacing=8;fillColor=#ffffff;strokeColor=#000000;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;" value="第二次&lt;br&gt;结果" vertex="1">
+          <mxGeometry height="105" width="125" x="890" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="cloud_tag" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacing=8;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="具体云核二级标签" vertex="1">
+          <mxGeometry height="90" width="260" x="1140" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="other_white" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacing=8;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;rough=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;align=center;verticalAlign=middle;fontColor=default;" value="其他白样本" vertex="1">
+          <mxGeometry height="85" width="270" x="1140" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="a_sample_step1" edge="1" parent="1" source="sample" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;sketch=1;rough=1;fontFamily=Microsoft YaHei;fontSize=14;" target="step1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_step1_decision1" edge="1" parent="1" source="step1" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;sketch=1;rough=1;fontFamily=Microsoft YaHei;fontSize=14;" target="decision1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_d1_black" edge="1" parent="1" source="decision1" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;sketch=1;rough=1;fontFamily=Microsoft YaHei;fontSize=14;" target="black" value="命中具体三级标签">
+          <mxGeometry relative="1" x="0.0015" y="20" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="880" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_d1_other_black" edge="1" parent="1" source="decision1" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;sketch=1;rough=1;fontFamily=Microsoft YaHei;fontSize=14;" target="other_black" value="其他类型的黑样本">
+          <mxGeometry relative="1" x="-0.0236" y="-16" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="880" y="344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_d1_step2" edge="1" parent="1" source="decision1" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;sketch=1;rough=1;fontFamily=Microsoft YaHei;fontSize=14;" target="step2" value="白样本">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_step2_decision2" edge="1" parent="1" source="step2" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;sketch=1;rough=1;fontFamily=Microsoft YaHei;fontSize=14;" target="decision2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_d2_cloud" edge="1" parent="1" source="decision2" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;sketch=1;rough=1;fontFamily=Microsoft YaHei;fontSize=14;" target="cloud_tag" value="命中云核二级标签">
+          <mxGeometry relative="1" x="-0.0177" y="43" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1050" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_d2_other_white" edge="1" parent="1" source="decision2" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;sketch=1;rough=1;fontFamily=Microsoft YaHei;fontSize=14;" target="other_white" value="其他类型的白样本">
+          <mxGeometry relative="1" x="0.1406" y="-28" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1070" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
