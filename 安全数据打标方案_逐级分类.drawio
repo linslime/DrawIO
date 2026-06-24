@@ -70,7 +70,7 @@
             <mxPoint x="1475" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3mY6m-3xeI_cgaItluyr-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 34px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;层级递进分类流程&lt;/span&gt;" vertex="1">
+        <mxCell id="3mY6m-3xeI_cgaItluyr-1" parent="1" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 34px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;层级递进分类流程&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="310" x="940" y="160" as="geometry" />
         </mxCell>
       </root>
