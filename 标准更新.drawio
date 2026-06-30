@@ -14,7 +14,7 @@
           <mxGeometry height="320" width="620" x="470" y="90" as="geometry" />
         </mxCell>
         <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=28;fontStyle=1;fontColor=#17365D;" value="代码核心流程图" vertex="1">
-          <mxGeometry height="40" width="420" x="490" y="-140" as="geometry" />
+          <mxGeometry height="40" width="420" x="280" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="left_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;fontColor=#17365D;" value="主流程" vertex="1">
           <mxGeometry height="36" width="160" x="120" y="80" as="geometry" />
