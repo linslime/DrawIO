@@ -1,0 +1,159 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="Ojyd1FicouPPKOpOKbv8">
+    <mxGraphModel dx="2020" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=28;fontStyle=1;fontColor=#17365D;" value="代码核心流程图" vertex="1">
+          <mxGeometry height="40" width="420" x="500" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="left_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;fontColor=#17365D;" value="主流程" vertex="1">
+          <mxGeometry height="36" width="160" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="1. 开始" vertex="1">
+          <mxGeometry height="58" width="210" x="115" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="L2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="2. 读取数据与配置" vertex="1">
+          <mxGeometry height="74" width="330" x="55" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="L3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="3. 构造 data 列表并随机抽样&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;提取字段后 shuffle，截取前 100 条&lt;/font&gt;" vertex="1">
+          <mxGeometry height="74" width="330" x="55" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="L4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="4. 处理标准数据&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;四野三级展开、云核二级映射、&lt;br&gt;生成修正规则&lt;/font&gt;" vertex="1">
+          <mxGeometry height="86" width="330" x="55" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="L5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="5. 并发处理每条数据&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;ThreadPoolExecutor(max_workers=5)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="74" width="330" x="55" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="L6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="6. 调用 process_item(item)" vertex="1">
+          <mxGeometry height="60" width="330" x="55" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="L7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="7. 保存结果&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;save_jsonl +&lt;br&gt;save_dict_list_to_excel&lt;/font&gt;" vertex="1">
+          <mxGeometry height="86" width="280" x="80" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="L8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="8. 结束" vertex="1">
+          <mxGeometry height="58" width="210" x="115" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="process_container" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#F4FAFF;strokeColor=#000000;strokeWidth=2;sketch=1;" value="" vertex="1">
+          <mxGeometry height="885" width="660" x="455" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="process_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=1;fontColor=#000000;" value="process_item(item) 核心逻辑" vertex="1">
+          <mxGeometry height="40" width="450" x="565" y="92" as="geometry" />
+        </mxCell>
+        <mxCell id="P1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="1. 模型输出①：四野分类" vertex="1">
+          <mxGeometry height="105" width="360" x="485" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;sketch=1;fontFamily=Consolas;fontSize=15;" value="四野三级标签" vertex="1">
+          <mxGeometry height="46" width="150" x="880" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="T2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;sketch=1;fontFamily=Consolas;fontSize=15;" value="黑白样本标签" vertex="1">
+          <mxGeometry height="46" width="150" x="880" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="P2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="2. 模型输出②：云核分类" vertex="1">
+          <mxGeometry height="95" width="360" x="485" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="T3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;sketch=1;fontFamily=Consolas;fontSize=15;" value="云核二级标签" vertex="1">
+          <mxGeometry height="46" width="150" x="880" y="324.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="3. 四野三级标签 == 其他类型黑样本？" vertex="1">
+          <mxGeometry height="90" width="400" x="465" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="P3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="4. 模型输出③：选择最接近的四野类别" vertex="1">
+          <mxGeometry height="86" width="360" x="485" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="T4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;sketch=1;fontFamily=Consolas;fontSize=14;" value="&amp;lt;tag&amp;gt; →&lt;br&gt;siye_other_level_tag" vertex="1">
+          <mxGeometry height="80" width="170" x="880" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="P4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" value="5. 模型输出④：补充类别描述" vertex="1">
+          <mxGeometry height="86" width="360" x="485" y="724" as="geometry" />
+        </mxCell>
+        <mxCell id="T5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;sketch=1;fontFamily=Consolas;fontSize=13;" value="&amp;lt;tag&amp;gt; →&lt;br&gt;siye_standard_&lt;br&gt;revision_tag" vertex="1">
+          <mxGeometry height="95" width="170" x="880" y="719.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;sketch=1;fontFamily=Microsoft YaHei;fontSize=16;" value="6. 返回 item" vertex="1">
+          <mxGeometry height="54" width="360" x="485" y="871" as="geometry" />
+        </mxCell>
+        <mxCell id="eL1" edge="1" parent="1" source="L1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="L2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL2" edge="1" parent="1" source="L2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="L3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3" edge="1" parent="1" source="L3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="L4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL4" edge="1" parent="1" source="L4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="L5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL5" edge="1" parent="1" source="L5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="L6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL6" edge="1" parent="1" source="L6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="L7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL7" edge="1" parent="1" source="L7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="L8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eP1P2" edge="1" parent="1" source="P1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="P2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eP1T1" edge="1" parent="1" source="P1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="T1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="193" />
+              <mxPoint x="860" y="168" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eP1T2" edge="1" parent="1" source="P1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="T2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="193" />
+              <mxPoint x="860" y="228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eP2T3" edge="1" parent="1" source="P2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="T3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eP2D1" edge="1" parent="1" source="P2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="D1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eD1P3" edge="1" parent="1" source="D1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="P3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eP3T4" edge="1" parent="1" source="P3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="T4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eP3D2" edge="1" parent="1" source="P3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="P4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eP4T5" edge="1" parent="1" source="P4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="T5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eP4P5" edge="1" parent="1" source="P4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" target="P5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eD1No" edge="1" parent="1" source="D1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;exitX=1;exitY=0.5;entryX=1;entryY=0.5;" target="P5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="475" />
+              <mxPoint x="1060" y="898" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="txt_yes1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#000000;" value="是" vertex="1">
+          <mxGeometry height="24" width="30" x="670" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="txt_no1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#000000;" value="否" vertex="1">
+          <mxGeometry height="24" width="30" x="920" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="U71A6_dXDx2ThNWy7YBN-7" edge="1" parent="1" source="L6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.718;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" target="process_container">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
