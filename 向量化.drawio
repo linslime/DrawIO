@@ -1392,6 +1392,9 @@
         <mxCell id="506" parent="8lBG2VuPSVx-o94zdqdK-824" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;strokeColor=#5E1D6F;fillColor=#EE6A64;strokeWidth=1.1;sketch=1;curveFitting=1;jiggle=1;container=0;" value="" vertex="1">
           <mxGeometry height="21" width="16" x="64" y="231" as="geometry" />
         </mxCell>
+        <mxCell id="jpsQo93AcKol8dTZOopZ-517" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#111111;align=center;fontStyle=1;" value="离散潜在声学表示" vertex="1">
+          <mxGeometry height="60" width="155" x="1268.5" y="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
