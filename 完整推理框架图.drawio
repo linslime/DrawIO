@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="zTvgTvJq1Bmuv-PS1Btc">
-    <mxGraphModel dx="1320" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1200" math="1" shadow="0">
+    <mxGraphModel dx="3017" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1200" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="decoder" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;fixedSize=1;whiteSpace=wrap;html=1;rough=1;strokeWidth=2;strokeColor=#111111;fillColor=#f2f2f2;gradientColor=#ffffff;fontSize=25;fontFamily=Helvetica;" value="&lt;b&gt;Decoder&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="280" x="310" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="fusion" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rough=1;strokeWidth=2;arcSize=18;strokeColor=#111111;fillColor=#eaf6df;gradientColor=#ffffff;fontSize=23;fontFamily=Helvetica;" value="&lt;b&gt;Concat / Fusion&lt;/b&gt;" vertex="1">
-          <mxGeometry height="58" width="340" x="280" y="195" as="geometry" />
+        <mxCell id="fusion" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rough=1;strokeWidth=2;arcSize=18;strokeColor=#111111;fillColor=#E0EED7;gradientColor=none;fontSize=23;fontFamily=Helvetica;" value="&lt;b&gt;Concat&lt;/b&gt;" vertex="1">
+          <mxGeometry height="58" width="340" x="280" y="197" as="geometry" />
         </mxCell>
         <mxCell id="eRaw" edge="1" parent="1" source="decoder" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;rough=1;strokeWidth=2;endArrow=classic;endFill=1;" target="rawWaveform">
           <mxGeometry relative="1" as="geometry" />
