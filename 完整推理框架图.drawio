@@ -201,6 +201,15 @@
         <mxCell id="a10" parent="u8HFDvhzej5k0UzQlvXU-33" style="rounded=0;whiteSpace=wrap;html=1;rough=1;strokeWidth=2;strokeColor=#111111;fillColor=#8ed451;" value="" vertex="1">
           <mxGeometry height="40" width="20" x="180" as="geometry" />
         </mxCell>
+        <mxCell id="u8HFDvhzej5k0UzQlvXU-37" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.17;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=west;fillColor=light-dark(#fc2222, #ededed);" value="" vertex="1">
+          <mxGeometry height="80" width="50" x="410" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="u8HFDvhzej5k0UzQlvXU-38" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.64;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=west;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="480" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="u8HFDvhzej5k0UzQlvXU-40" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.obtuse_triangle;dx=0.65;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=west;flipH=1;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="84" width="40" x="560" y="620" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
