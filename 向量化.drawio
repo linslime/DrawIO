@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="151" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#2457A6;fillColor=#E7F0FF;strokeWidth=1.4;sketch=1;curveFitting=1;jiggle=1;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;" value="统一量化流程（各子空间量化方法相同）" vertex="1">
+        <mxCell id="151" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#2457A6;fillColor=#E7F0FF;strokeWidth=1.4;sketch=1;curveFitting=1;jiggle=1;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;" value="统一量化流程" vertex="1">
           <mxGeometry height="42" width="600" x="590" y="55" as="geometry" />
         </mxCell>
         <mxCell id="177" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.4;sketch=1;curveFitting=1;jiggle=1;" value="">
