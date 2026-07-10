@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="ExDGClFhrGW7AjpE_VeL">
-    <mxGraphModel dx="1920" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1661" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -436,21 +436,6 @@
               <mxPoint x="240" y="671" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="513" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#555555;align=center;" value="颜色用于区分四个分组 / 子空间" vertex="1">
-          <mxGeometry height="28" width="280" x="1180" y="905" as="geometry" />
-        </mxCell>
-        <mxCell id="514" parent="1" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;strokeColor=#6F42C1;fillColor=#F0E8FF;strokeWidth=1.1;sketch=1;curveFitting=1;jiggle=1;" value="" vertex="1">
-          <mxGeometry height="16" width="25" x="1260" y="938" as="geometry" />
-        </mxCell>
-        <mxCell id="515" parent="1" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;strokeColor=#D99000;fillColor=#FFF2D0;strokeWidth=1.1;sketch=1;curveFitting=1;jiggle=1;" value="" vertex="1">
-          <mxGeometry height="16" width="25" x="1298" y="938" as="geometry" />
-        </mxCell>
-        <mxCell id="516" parent="1" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;strokeColor=#2F6FD6;fillColor=#E6F0FF;strokeWidth=1.1;sketch=1;curveFitting=1;jiggle=1;" value="" vertex="1">
-          <mxGeometry height="16" width="25" x="1336" y="938" as="geometry" />
-        </mxCell>
-        <mxCell id="517" parent="1" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;strokeColor=#F26A2E;fillColor=#FFE9DF;strokeWidth=1.1;sketch=1;curveFitting=1;jiggle=1;" value="" vertex="1">
-          <mxGeometry height="16" width="25" x="1374" y="938" as="geometry" />
         </mxCell>
         <mxCell id="8lBG2VuPSVx-o94zdqdK-828" edge="1" parent="1" source="_HgvJ2l0veZHQwAe1Mmr-613" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="477">
           <mxGeometry relative="1" as="geometry" />
