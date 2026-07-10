@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="zTvgTvJq1Bmuv-PS1Btc">
-    <mxGraphModel dx="747" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1200" math="1" shadow="0">
+    <mxGraphModel dx="2115" dy="1269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1200" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,9 +115,6 @@
         </mxCell>
         <mxCell id="KxY1lsxbQwJsp_nJww0Y-62" edge="1" parent="1" source="KxY1lsxbQwJsp_nJww0Y-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;html=1;rough=1;strokeWidth=2;endArrow=classic;endFill=1;" target="KxY1lsxbQwJsp_nJww0Y-60">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KxY1lsxbQwJsp_nJww0Y-63" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=22;fontFamily=Times New Roman;" value="&amp;nbsp;Proposed inference framework" vertex="1">
-          <mxGeometry height="40" width="500" x="690" y="1750" as="geometry" />
         </mxCell>
         <mxCell id="KxY1lsxbQwJsp_nJww0Y-64" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="50" width="128" x="701" y="1320.5" as="geometry" />
