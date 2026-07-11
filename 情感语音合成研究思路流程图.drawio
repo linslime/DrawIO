@@ -88,17 +88,8 @@
         <mxCell id="v29" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDEBFA;strokeWidth=6;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="145" width="145" x="78" y="327" as="geometry" />
         </mxCell>
-        <mxCell id="v30" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#2E67C7;strokeColor=#2E67C7;strokeWidth=0;fontFamily=Comic Sans MS;" value="" vertex="1">
-          <mxGeometry height="72" width="48" x="132" y="360" as="geometry" />
-        </mxCell>
         <mxCell id="v31" parent="1" style="shape=mxgraph.basic.arc;startAngle=180;endAngle=360;fillColor=none;strokeColor=#2E67C7;strokeWidth=5;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="58" width="70" x="121" y="388" as="geometry" />
-        </mxCell>
-        <mxCell id="v32" parent="1" style="shape=rect;fillColor=#2E67C7;strokeColor=none;fontFamily=Comic Sans MS;" value="" vertex="1">
-          <mxGeometry height="34" width="6" x="153" y="431" as="geometry" />
-        </mxCell>
-        <mxCell id="v33" parent="1" style="shape=rect;fillColor=#2E67C7;strokeColor=none;rounded=1;fontFamily=Comic Sans MS;" value="" vertex="1">
-          <mxGeometry height="6" width="48" x="132" y="462" as="geometry" />
         </mxCell>
         <mxCell id="v34" parent="1" style="shape=mxgraph.basic.arc;startAngle=90;endAngle=270;direction=west;fillColor=none;strokeColor=#2E67C7;strokeWidth=4;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="38" width="18" x="90" y="380" as="geometry" />
@@ -859,6 +850,9 @@
         </mxCell>
         <mxCell id="mLJ6RkBWi0f_F3Ge-QQL-15" parent="mLJ6RkBWi0f_F3Ge-QQL-6" style="shape=rect;fillColor=#8FC5F2;strokeColor=none;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="30" width="4" x="61" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="mLJ6RkBWi0f_F3Ge-QQL-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3069CA;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="109" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
