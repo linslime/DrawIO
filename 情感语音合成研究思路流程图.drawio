@@ -185,10 +185,10 @@
         <mxCell id="v52" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#6E4FC5;strokeColor=#6E4FC5;strokeWidth=0;fontFamily=Comic Sans MS;fontSize=22;fontColor=#FFFFFF;fontStyle=1;align=center;verticalAlign=middle;" value="模块二" vertex="1">
           <mxGeometry height="40" width="180" x="875" y="543" as="geometry" />
         </mxCell>
-        <mxCell id="v53" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=23;fontColor=#5836B2;fontStyle=1;spacing=0;" value="基于 VQ-VAE 的离散声学表征学习" vertex="1">
+        <mxCell id="v53" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=23;fontColor=#5836B2;fontStyle=1;spacing=0;" value="基于 VQ-VAE 的音频编解码器" vertex="1">
           <mxGeometry height="38" width="520" x="735" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="v54" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=23;fontColor=#5836B2;fontStyle=1;spacing=0;" value="基于任务掩码与情感注意力的情感表征解耦" vertex="1">
+        <mxCell id="v54" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=23;fontColor=#5836B2;fontStyle=1;spacing=0;" value="基于情感表征解耦的参考编码器" vertex="1">
           <mxGeometry height="38" width="580" x="704" y="588" as="geometry" />
         </mxCell>
         <mxCell id="v55" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7FAFF;strokeColor=#9DB8E7;strokeWidth=1.5;fontFamily=Comic Sans MS;" value="" vertex="1">
@@ -410,7 +410,7 @@
         <mxCell id="v127" parent="1" style="shape=line;strokeColor=#8B75D4;strokeWidth=1;dashed=1;dashPattern=6 4;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="1" width="620" x="685" y="476" as="geometry" />
         </mxCell>
-        <mxCell id="v128" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=19;fontColor=#222222;fontStyle=0;spacing=0;" value="降低声学建模复杂度，缓解文本到声学映射困难。" vertex="1">
+        <mxCell id="v128" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=19;fontColor=#222222;fontStyle=0;spacing=0;" value="&lt;span style=&quot;color: light-dark(rgb(110, 79, 197), rgb(237, 237, 237));&quot;&gt;降低声学建模复杂度，缓解文本到声学映射困难。&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="575" x="707" y="485" as="geometry" />
         </mxCell>
         <mxCell id="v129" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7FAFF;strokeColor=#9DB8E7;strokeWidth=1.5;fontFamily=Comic Sans MS;" value="" vertex="1">
@@ -735,7 +735,7 @@
         <mxCell id="v223" parent="1" style="shape=line;strokeColor=#8B75D4;strokeWidth=1;dashed=1;dashPattern=6 4;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="1" width="620" x="685" y="786" as="geometry" />
         </mxCell>
-        <mxCell id="v224" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=19;fontColor=#222222;fontStyle=0;spacing=0;" value="削弱非情感因素干扰，提取更纯净稳定的情感特征。" vertex="1">
+        <mxCell id="v224" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=19;fontColor=#222222;fontStyle=0;spacing=0;" value="&lt;span style=&quot;color: light-dark(rgb(110, 79, 197), rgb(237, 237, 237));&quot;&gt;削弱非情感因素干扰，提取更纯净稳定的情感特征。&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="580" x="705" y="795" as="geometry" />
         </mxCell>
         <mxCell id="e225" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#5D43B3;strokeWidth=4;endArrow=none;" value="">
