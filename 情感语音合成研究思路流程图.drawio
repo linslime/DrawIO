@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="fVVEHDjkvuh4-jfM98xs">
-    <mxGraphModel dx="490" dy="306" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1664" pageHeight="928" math="1" shadow="0">
+    <mxGraphModel dx="1212" dy="755" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1664" pageHeight="928" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,7 +188,7 @@
         <mxCell id="v53" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=23;fontColor=#5836B2;fontStyle=1;spacing=0;" value="基于 VQ-VAE 的音频编解码器" vertex="1">
           <mxGeometry height="38" width="520" x="735" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="v54" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=23;fontColor=#5836B2;fontStyle=1;spacing=0;" value="基于情感表征解耦的参考编码器" vertex="1">
+        <mxCell id="v54" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=23;fontColor=#5836B2;fontStyle=1;spacing=0;" value="基于权重掩码的音频参考编码器" vertex="1">
           <mxGeometry height="38" width="580" x="704" y="588" as="geometry" />
         </mxCell>
         <mxCell id="v55" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7FAFF;strokeColor=#9DB8E7;strokeWidth=1.5;fontFamily=Comic Sans MS;" value="" vertex="1">
@@ -206,7 +206,7 @@
         <mxCell id="v59" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FCF9FF;strokeColor=#C5B4EC;strokeWidth=1.5;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="132" width="105" x="931" y="327" as="geometry" />
         </mxCell>
-        <mxCell id="v60" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;fontStyle=0;spacing=0;" value="连续&lt;br&gt;潜在表示 z" vertex="1">
+        <mxCell id="v60" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;fontStyle=0;spacing=0;" value="&lt;font&gt;&lt;span style=&quot;text-align: left; white-space: nowrap; color: rgb(0, 0, 0);&quot;&gt;continuous&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;i style=&quot;text-align: left; white-space: nowrap; color: rgb(0, 0, 0);&quot;&gt; latent &lt;span&gt;z̃&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="42" width="95" x="936" y="335" as="geometry" />
         </mxCell>
         <mxCell id="v61" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFF9E9;strokeColor=#E5C976;strokeWidth=1.5;fontFamily=Comic Sans MS;" value="" vertex="1">
@@ -218,7 +218,7 @@
         <mxCell id="v63" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7FCF8;strokeColor=#AACDAE;strokeWidth=1.5;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="132" width="105" x="1185" y="327" as="geometry" />
         </mxCell>
-        <mxCell id="v64" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;fontStyle=0;spacing=0;" value="离散声学&lt;br&gt;token" vertex="1">
+        <mxCell id="v64" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;fontStyle=0;spacing=0;" value="&lt;i style=&quot;text-align: left; white-space: nowrap;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;discrete&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;text-align: left; white-space: nowrap;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;latent &lt;span&gt;z̃&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="42" width="95" x="1190" y="335" as="geometry" />
         </mxCell>
         <mxCell id="e65" edge="1" parent="1" source="v55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2;endArrow=block;endFill=1;fontFamily=Comic Sans MS;" target="v57" value="">
@@ -376,9 +376,6 @@
         </mxCell>
         <mxCell id="v125" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#B79ADB;strokeColor=#7762B0;strokeWidth=1;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="22" width="19" x="1248" y="408" as="geometry" />
-        </mxCell>
-        <mxCell id="v126" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=#333333;fontStyle=1;spacing=0;" value="⋯" vertex="1">
-          <mxGeometry height="20" width="12" x="1276" y="409" as="geometry" />
         </mxCell>
         <mxCell id="v127" parent="1" style="shape=line;strokeColor=#8B75D4;strokeWidth=1;dashed=1;dashPattern=6 4;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="1" width="620" x="685" y="476" as="geometry" />
@@ -708,7 +705,7 @@
         <mxCell id="v223" parent="1" style="shape=line;strokeColor=#8B75D4;strokeWidth=1;dashed=1;dashPattern=6 4;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="1" width="620" x="685" y="786" as="geometry" />
         </mxCell>
-        <mxCell id="v224" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=19;fontColor=#222222;fontStyle=0;spacing=0;" value="&lt;span style=&quot;color: light-dark(rgb(110, 79, 197), rgb(237, 237, 237));&quot;&gt;削弱非情感因素干扰，提取更纯净稳定的情感特征&lt;/span&gt;" vertex="1">
+        <mxCell id="v224" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=19;fontColor=#222222;fontStyle=0;spacing=0;" value="&lt;span style=&quot;color: rgb(110, 79, 197);&quot;&gt;解耦出情感特征，&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(110, 79, 197), rgb(237, 237, 237));&quot;&gt;削弱非情感因素干扰&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="580" x="705" y="795" as="geometry" />
         </mxCell>
         <mxCell id="e225" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#5D43B3;strokeWidth=4;endArrow=none;" value="">
