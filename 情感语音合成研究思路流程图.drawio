@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="fVVEHDjkvuh4-jfM98xs">
-    <mxGraphModel dx="1585" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1664" pageHeight="928" math="1" shadow="0">
+    <mxGraphModel dx="1717" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1664" pageHeight="928" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="v8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7E63C7;strokeColor=#7E63C7;strokeWidth=0;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="852" y="91" as="geometry" />
         </mxCell>
-        <mxCell id="v9" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#2E67C7;strokeColor=none;strokeWidth=0;fontFamily=Comic Sans MS;gradientColor=#3D74D8;gradientDirection=east;fontSize=24;fontColor=#FFFFFF;fontStyle=1;align=center;verticalAlign=middle;" value="研究背景" vertex="1">
+        <mxCell id="v9" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#2E67C7;strokeColor=none;strokeWidth=0;fontFamily=Comic Sans MS;gradientColor=#3D74D8;gradientDirection=east;fontSize=24;fontColor=#FFFFFF;fontStyle=1;align=center;verticalAlign=middle;" value="研究目标" vertex="1">
           <mxGeometry height="56" width="215" x="65" y="155" as="geometry" />
         </mxCell>
         <mxCell id="v10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E67C7;strokeWidth=7;fontFamily=Comic Sans MS;fontSize=24;fontColor=#2E67C7;fontStyle=1;align=center;verticalAlign=middle;" value="1" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="v12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E67C7;strokeWidth=7;fontFamily=Comic Sans MS;fontSize=24;fontColor=#2E67C7;fontStyle=1;align=center;verticalAlign=middle;" value="2" vertex="1">
           <mxGeometry height="54" width="54" x="360" y="158" as="geometry" />
         </mxCell>
-        <mxCell id="v13" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#6E4FC5;strokeColor=none;strokeWidth=0;fontFamily=Comic Sans MS;gradientColor=#8165D2;gradientDirection=east;fontSize=24;fontColor=#FFFFFF;fontStyle=1;align=center;verticalAlign=middle;" value="研究内容" vertex="1">
+        <mxCell id="v13" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#6E4FC5;strokeColor=none;strokeWidth=0;fontFamily=Comic Sans MS;gradientColor=#8165D2;gradientDirection=east;fontSize=24;fontColor=#FFFFFF;fontStyle=1;align=center;verticalAlign=middle;" value="研究方法" vertex="1">
           <mxGeometry height="56" width="570" x="715" y="155" as="geometry" />
         </mxCell>
         <mxCell id="v14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E4FC5;strokeWidth=7;fontFamily=Comic Sans MS;fontSize=24;fontColor=#6E4FC5;fontStyle=1;align=center;verticalAlign=middle;" value="3" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="v37" parent="1" style="shape=mxgraph.basic.arc;startAngle=90;endAngle=270;direction=east;fillColor=none;strokeColor=#2E67C7;strokeWidth=4;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="54" width="28" x="192" y="372" as="geometry" />
         </mxCell>
-        <mxCell id="v38" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=22;fontColor=#111111;fontStyle=0;spacing=0;" value="&lt;b&gt;情感语音合成需要&lt;br&gt;同时保证自然度、&lt;br&gt;情感可控性和&lt;br&gt;声学质量。&lt;/b&gt;" vertex="1">
+        <mxCell id="v38" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=22;fontColor=#111111;fontStyle=0;spacing=0;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(46, 103, 199), rgb(237, 237, 237));&quot;&gt;提升合成语音的声学质量和情感可控性。&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="225" width="195" x="55" y="500" as="geometry" />
         </mxCell>
         <mxCell id="v39" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#3D79D5;strokeColor=#3D79D5;strokeWidth=0;fontFamily=Comic Sans MS;fontSize=32;fontColor=#FFFFFF;fontStyle=1;align=center;verticalAlign=middle;" value="?" vertex="1">
