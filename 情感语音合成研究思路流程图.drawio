@@ -749,7 +749,7 @@
         <mxCell id="v234" parent="1" style="shape=line;strokeColor=#8B75D4;strokeWidth=1;dashed=1;dashPattern=6 4;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="1" width="180" x="1425" y="522" as="geometry" />
         </mxCell>
-        <mxCell id="v235" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=24;fontColor=#5134A6;fontStyle=1;spacing=0;" value="提升合成语音的&lt;br&gt;自然度、&lt;br&gt;情感可控性与&lt;br&gt;声学质量" vertex="1">
+        <mxCell id="v235" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=24;fontColor=#5134A6;fontStyle=1;spacing=0;" value="声学预测误差降低，合成语音的情感辨识度提升" vertex="1">
           <mxGeometry height="180" width="170" x="1430" y="555" as="geometry" />
         </mxCell>
         <mxCell id="mLJ6RkBWi0f_F3Ge-QQL-3" connectable="0" parent="1" style="group" value="" vertex="1">
