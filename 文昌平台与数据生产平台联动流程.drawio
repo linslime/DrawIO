@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="4yErZtKO05P3tX7bJs6z">
-    <mxGraphModel dx="426" dy="255" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1656" pageHeight="928" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1076" dy="643" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1656" pageHeight="928" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,7 +186,7 @@
           <mxGeometry height="245" width="377" x="1241" y="195" as="geometry" />
         </mxCell>
         <mxCell id="management_box" parent="_MsRrkVGIvv5ZV_jFw_0-5" style="rounded=1;arcSize=3;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=#4B9E3A;fillColor=#FBFFF9;fillOpacity=30;" value="" vertex="1">
-          <mxGeometry height="245" width="377" as="geometry" />
+          <mxGeometry height="245" width="377" y="13" as="geometry" />
         </mxCell>
         <mxCell id="management_title" parent="_MsRrkVGIvv5ZV_jFw_0-5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=1;fontColor=#0D6B1E;" value="数据管理功能模块" vertex="1">
           <mxGeometry height="40" width="300" x="39" y="10" as="geometry" />
@@ -230,7 +230,7 @@
         <mxCell id="data_manage" parent="_MsRrkVGIvv5ZV_jFw_0-5" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.5;shadow=0;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#1B2A1B;strokeColor=#4B9E3A;fillColor=#F1F9EC;" value="增加/删除/修改/检索/筛选/统计" vertex="1">
           <mxGeometry height="145" width="129" x="239" y="63" as="geometry" />
         </mxCell>
-        <mxCell id="_MsRrkVGIvv5ZV_jFw_0-8" edge="1" parent="_MsRrkVGIvv5ZV_jFw_0-5" source="visual_box" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" target="data_manage">
+        <mxCell id="_MsRrkVGIvv5ZV_jFw_0-8" edge="1" parent="_MsRrkVGIvv5ZV_jFw_0-5" source="visual_box" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="data_manage">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
