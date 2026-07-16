@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="4yErZtKO05P3tX7bJs6z">
-    <mxGraphModel dx="1076" dy="643" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1656" pageHeight="928" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="524" dy="313" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1656" pageHeight="928" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,7 +198,7 @@
           <mxGeometry height="114" width="65" x="18" y="77" as="geometry" />
         </mxCell>
         <mxCell id="user_icon" parent="_MsRrkVGIvv5ZV_jFw_0-5" style="shape=umlActor;html=1;strokeWidth=2;strokeColor=#0B7783;fillColor=#0B7783;" value="" vertex="1">
-          <mxGeometry height="54" width="37" x="32" y="90" as="geometry" />
+          <mxGeometry height="58" width="28" x="36" y="87" as="geometry" />
         </mxCell>
         <mxCell id="user_text" parent="_MsRrkVGIvv5ZV_jFw_0-5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#1F2D30;" value="用户" vertex="1">
           <mxGeometry height="32" width="65" x="18" y="147" as="geometry" />
