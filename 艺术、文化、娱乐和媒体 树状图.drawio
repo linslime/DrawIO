@@ -1,0 +1,1020 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="U-oN1lO8wIoAnhLpqJs5">
+    <mxGraphModel dx="2399" dy="-229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uzkwoz7WG_x8HCC-XpM7-298" connectable="0" parent="1" style="group;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="1370" width="810" x="30" y="1850" as="geometry" />
+        </mxCell>
+        <UserObject label="艺术、文化、娱乐和媒体" mermaidId="n:A" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="艺术、文化、娱乐和媒体" id="uzkwoz7WG_x8HCC-XpM7-151">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="168.57142857142856" x="-13" y="356" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="艺术与娱乐" mermaidId="n:B" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="艺术与娱乐" id="uzkwoz7WG_x8HCC-XpM7-152">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="100" x="771" y="526" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="文化" mermaidId="n:BD" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="文化" id="uzkwoz7WG_x8HCC-XpM7-153">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="38" y="526" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="大众传媒" mermaidId="n:BM" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="大众传媒" id="uzkwoz7WG_x8HCC-XpM7-154">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="-218" y="526" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="动画" mermaidId="n:C" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="动画" id="uzkwoz7WG_x8HCC-XpM7-155">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="1049" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="卡通" mermaidId="n:D" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="卡通" id="uzkwoz7WG_x8HCC-XpM7-156">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="1016" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="电影" mermaidId="n:E" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="电影" id="uzkwoz7WG_x8HCC-XpM7-157">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="983" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="舞蹈" mermaidId="n:F" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="舞蹈" id="uzkwoz7WG_x8HCC-XpM7-158">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="951" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="时尚" mermaidId="n:J" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="时尚" id="uzkwoz7WG_x8HCC-XpM7-159">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="853" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="艺术节" mermaidId="n:N" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="艺术节" id="uzkwoz7WG_x8HCC-XpM7-160">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="782" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="文学" mermaidId="n:P" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="文学" id="uzkwoz7WG_x8HCC-XpM7-161">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="706" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="音乐" mermaidId="n:U" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="音乐" id="uzkwoz7WG_x8HCC-XpM7-162">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="592" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="连续剧" mermaidId="n:AK" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="连续剧" id="uzkwoz7WG_x8HCC-XpM7-163">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="538" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="戏剧" mermaidId="n:AL" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="戏剧" id="uzkwoz7WG_x8HCC-XpM7-164">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="462" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="视觉艺术" mermaidId="n:AT" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="视觉艺术" id="uzkwoz7WG_x8HCC-XpM7-165">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="173" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="芭蕾舞" mermaidId="n:G" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="芭蕾舞" id="uzkwoz7WG_x8HCC-XpM7-166">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="978" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="现代舞" mermaidId="n:H" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="现代舞" id="uzkwoz7WG_x8HCC-XpM7-167">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="945" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="传统舞蹈" mermaidId="n:I" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="传统舞蹈" id="uzkwoz7WG_x8HCC-XpM7-168">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="907" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="化妆品" mermaidId="n:K" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="化妆品" id="uzkwoz7WG_x8HCC-XpM7-169">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="880" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="发型" mermaidId="n:L" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="发型" id="uzkwoz7WG_x8HCC-XpM7-170">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="853" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="珠宝首饰" mermaidId="n:M" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="珠宝首饰" id="uzkwoz7WG_x8HCC-XpM7-171">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="809" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="电影节" mermaidId="n:O" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="电影节" id="uzkwoz7WG_x8HCC-XpM7-172">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="782" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="戏剧（文学）" mermaidId="n:Q" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="戏剧（文学）" id="uzkwoz7WG_x8HCC-XpM7-173">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="111.42857142857142" x="732" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="小说" mermaidId="n:R" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="小说" id="uzkwoz7WG_x8HCC-XpM7-174">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="723" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="纪实文学" mermaidId="n:S" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="纪实文学" id="uzkwoz7WG_x8HCC-XpM7-175">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="679" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="诗歌" mermaidId="n:T" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="诗歌" id="uzkwoz7WG_x8HCC-XpM7-176">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="657" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="音乐类型" mermaidId="n:V" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="音乐类型" id="uzkwoz7WG_x8HCC-XpM7-177">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="613" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="乐器" mermaidId="n:AI" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="乐器" id="uzkwoz7WG_x8HCC-XpM7-178">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="592" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="音乐表演" mermaidId="n:AJ" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="音乐表演" id="uzkwoz7WG_x8HCC-XpM7-179">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="548" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="儿童音乐" mermaidId="n:W" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="儿童音乐" id="uzkwoz7WG_x8HCC-XpM7-180">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="793" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="古典音乐" mermaidId="n:X" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="古典音乐" id="uzkwoz7WG_x8HCC-XpM7-181">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="760" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="乡村音乐" mermaidId="n:Y" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="乡村音乐" id="uzkwoz7WG_x8HCC-XpM7-182">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="728" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="舞蹈乐队音乐" mermaidId="n:Z" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="舞蹈乐队音乐" id="uzkwoz7WG_x8HCC-XpM7-183">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="111.42857142857142" x="683" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="电子舞曲" mermaidId="n:AA" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="电子舞曲" id="uzkwoz7WG_x8HCC-XpM7-184">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="662" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="民俗音乐" mermaidId="n:AB" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="民俗音乐" id="uzkwoz7WG_x8HCC-XpM7-185">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="630" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="重金属" mermaidId="n:AC" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="重金属" id="uzkwoz7WG_x8HCC-XpM7-186">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="603" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="嘻哈" mermaidId="n:AD" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="嘻哈" id="uzkwoz7WG_x8HCC-XpM7-187">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="576" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="爵士音乐" mermaidId="n:AE" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="爵士音乐" id="uzkwoz7WG_x8HCC-XpM7-188">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="532" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="流行音乐" mermaidId="n:AF" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="流行音乐" id="uzkwoz7WG_x8HCC-XpM7-189">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="499" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="r&amp;b（节奏蓝调）" mermaidId="n:AG" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="r&amp;b（节奏蓝调）" id="uzkwoz7WG_x8HCC-XpM7-190">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="130" x="446" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="摇滚乐" mermaidId="n:AH" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="摇滚乐" id="uzkwoz7WG_x8HCC-XpM7-191">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="440" y="1017" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="歌舞表演" mermaidId="n:AM" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="歌舞表演" id="uzkwoz7WG_x8HCC-XpM7-192">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="516" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="话剧" mermaidId="n:AN" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="话剧" id="uzkwoz7WG_x8HCC-XpM7-193">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="494" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="音乐剧" mermaidId="n:AO" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="音乐剧" id="uzkwoz7WG_x8HCC-XpM7-194">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="456" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="歌舞剧" mermaidId="n:AP" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="歌舞剧" id="uzkwoz7WG_x8HCC-XpM7-195">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="423" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="歌剧" mermaidId="n:AQ" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="歌剧" id="uzkwoz7WG_x8HCC-XpM7-196">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="397" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="轻歌剧" mermaidId="n:AR" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="轻歌剧" id="uzkwoz7WG_x8HCC-XpM7-197">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="77.14285714285715" x="358" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="单口喜剧" mermaidId="n:AS" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="单口喜剧" id="uzkwoz7WG_x8HCC-XpM7-198">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="320" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="建筑设计" mermaidId="n:AU" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="建筑设计" id="uzkwoz7WG_x8HCC-XpM7-199">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="287" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="设计（视觉艺术）" mermaidId="n:AV" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="设计（视觉艺术）" id="uzkwoz7WG_x8HCC-XpM7-200">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="134.2857142857143" x="232" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="素描" mermaidId="n:AW" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="素描" id="uzkwoz7WG_x8HCC-XpM7-201">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="234" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="锻造（艺术）" mermaidId="n:AX" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="锻造（艺术）" id="uzkwoz7WG_x8HCC-XpM7-202">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="111.42857142857142" x="178" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="绘画" mermaidId="n:AY" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="绘画" id="uzkwoz7WG_x8HCC-XpM7-203">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="168" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="摄影" mermaidId="n:AZ" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="摄影" id="uzkwoz7WG_x8HCC-XpM7-204">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="119" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="雕塑" mermaidId="n:BA" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="雕塑" id="uzkwoz7WG_x8HCC-XpM7-205">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="87" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="纺织艺术" mermaidId="n:BB" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="纺织艺术" id="uzkwoz7WG_x8HCC-XpM7-206">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="43" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="木工" mermaidId="n:BC" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="木工" id="uzkwoz7WG_x8HCC-XpM7-207">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="22" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="艺术展览" mermaidId="n:BE" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="艺术展览" id="uzkwoz7WG_x8HCC-XpM7-208">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="141" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="文化发展" mermaidId="n:BF" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="文化发展" id="uzkwoz7WG_x8HCC-XpM7-209">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="108" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="习俗和传统" mermaidId="n:BG" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="习俗和传统" id="uzkwoz7WG_x8HCC-XpM7-210">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="100" x="70" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="节日活动（文化）" mermaidId="n:BH" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="节日活动（文化）" id="uzkwoz7WG_x8HCC-XpM7-211">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="134.2857142857143" x="20" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="语言" mermaidId="n:BI" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="语言" id="uzkwoz7WG_x8HCC-XpM7-212">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="22" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="图书馆和博物馆" mermaidId="n:BJ" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="图书馆和博物馆" id="uzkwoz7WG_x8HCC-XpM7-213">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="122.85714285714285" x="-40" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="纪念碑和遗址" mermaidId="n:BK" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="纪念碑和遗址" id="uzkwoz7WG_x8HCC-XpM7-214">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="111.42857142857142" x="-66" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="翻修" mermaidId="n:BL" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="翻修" id="uzkwoz7WG_x8HCC-XpM7-215">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="-44" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="误导和不实消息" mermaidId="n:BN" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="误导和不实消息" id="uzkwoz7WG_x8HCC-XpM7-216">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="122.85714285714285" x="-105" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="新闻媒体" mermaidId="n:BO" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="新闻媒体" id="uzkwoz7WG_x8HCC-XpM7-217">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="-120" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="报纸" mermaidId="n:BP" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="报纸" id="uzkwoz7WG_x8HCC-XpM7-218">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="-141" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="网络媒体" mermaidId="n:BQ" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="网络媒体" id="uzkwoz7WG_x8HCC-XpM7-219">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="-185" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="期刊" mermaidId="n:BR" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="期刊" id="uzkwoz7WG_x8HCC-XpM7-220">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="-207" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="广播" mermaidId="n:BS" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="广播" id="uzkwoz7WG_x8HCC-XpM7-221">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="-239" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="社交媒体" mermaidId="n:BT" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="社交媒体" id="uzkwoz7WG_x8HCC-XpM7-222">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="-283" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="电视" mermaidId="n:BV" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="电视" id="uzkwoz7WG_x8HCC-XpM7-223">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="65.71428571428571" x="-304" y="679" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="网络名人" mermaidId="n:BU" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="网络名人" id="uzkwoz7WG_x8HCC-XpM7-224">
+          <mxCell parent="uzkwoz7WG_x8HCC-XpM7-298" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;rotation=90;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="16.929061784897023" width="88.5714285714286" x="-283" y="849" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:A-&gt;B#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.51;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-225">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-151" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.51;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-152">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="821" y="466" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:A-&gt;BD#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-226">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-151" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=#82b366;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;" target="uzkwoz7WG_x8HCC-XpM7-153">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:A-&gt;BM#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.52;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-227">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-151" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.52;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-154">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-174" y="466" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;C#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.52;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-228">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.52;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-155">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1082" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;D#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.53;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-229">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.53;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-156">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1049" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;E#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.53;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-230">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.53;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-157">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1016" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;F#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.54;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-231">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.54;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-158">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="984" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;J#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.59;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-232">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.59;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-159">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="886" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;N#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-233">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-160">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;P#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.57;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-234">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.57;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-161">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="739" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;U#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.53;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-235">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.53;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-162">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="625" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;AK#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.52;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-236">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.52;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-163">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="576" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;AL#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.51;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-237">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.51;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-164">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="495" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:B-&gt;AT#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.51;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-238">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-152" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.51;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-165">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="218" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:F-&gt;G#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-239">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-158" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-166">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1016" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:F-&gt;H#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-240">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-158" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-167">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:F-&gt;I#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-241">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-158" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-168">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="951" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:J-&gt;K#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-242">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-159" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-169">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="919" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:J-&gt;L#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-243">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-159" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-170">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:J-&gt;M#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-244">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-159" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-171">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="853" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:N-&gt;O#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-245">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-160" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-172">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:P-&gt;Q#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.73;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-246">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-161" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.73;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-173">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="788" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:P-&gt;R#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.13;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-247">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-161" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.13;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-174">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="755" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:P-&gt;S#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.87;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-248">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-161" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.87;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-175">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="723" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:P-&gt;T#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.73;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-249">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-161" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.73;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-176">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="690" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:U-&gt;V#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-250">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-162" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-177">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="658" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:U-&gt;AI#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-251">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-162" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-178">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:U-&gt;AJ#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-252">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-162" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-179">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="592" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;W#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.55;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-253">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.55;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-180">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="837" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;X#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.56;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-254">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.56;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-181">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="804" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;Y#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.57;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-255">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.57;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-182">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="772" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;Z#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.6;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-256">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.6;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-183">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="739" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;AA#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-257">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-184">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="707" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;AB#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-258">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-185">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="674" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;AC#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-259">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-186">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="641" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;AD#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-260">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-187">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="609" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;AE#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.6;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-261">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.6;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-188">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="576" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;AF#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.57;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-262">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.57;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-189">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="544" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;AG#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.56;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-263">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=#b85450;exitX=0.56;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" target="uzkwoz7WG_x8HCC-XpM7-190">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="511" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:V-&gt;AH#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.55;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-264">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-177" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.55;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-191">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="478" y="942" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AL-&gt;AM#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.66;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-265">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-164" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.66;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-192">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="560" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AL-&gt;AN#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-266">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-164" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-193">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="527" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AL-&gt;AO#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-267">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-164" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-194">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AL-&gt;AP#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-268">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-164" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.84;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-195">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="462" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AL-&gt;AQ#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.66;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-269">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-164" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.66;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-196">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="429" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AL-&gt;AR#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.61;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-270">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-164" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.61;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-197">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="397" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AL-&gt;AS#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.59;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-271">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-164" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.59;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-198">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="364" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AT-&gt;AU#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.57;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-272">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-165" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.57;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-199">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="332" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AT-&gt;AV#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.6;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-273">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-165" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=#d79b00;exitX=0.6;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;" target="uzkwoz7WG_x8HCC-XpM7-200">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="299" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AT-&gt;AW#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-274">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-165" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-201">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="266" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AT-&gt;AX#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-275">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-165" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-202">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="234" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AT-&gt;AY#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-276">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-165" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-203">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="201" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AT-&gt;AZ#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.62;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-277">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-165" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.62;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-204">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="152" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AT-&gt;BA#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.58;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-278">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-165" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.58;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-205">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="120" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AT-&gt;BB#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.56;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-279">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-165" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.56;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-206">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="87" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:AT-&gt;BC#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.55;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-280">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-165" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.55;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-207">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="55" y="772" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BD-&gt;BE#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.58;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-281">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-153" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.58;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-208">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="185" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BD-&gt;BF#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.61;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-282">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-153" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.61;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-209">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="152" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BD-&gt;BG#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-283">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-153" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-210">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="120" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BD-&gt;BH#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.04;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-284">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-153" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=#82b366;exitX=1;exitY=0.04;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;" target="uzkwoz7WG_x8HCC-XpM7-211">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="87" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BD-&gt;BI#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.96;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-285">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-153" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.96;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-212">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="55" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BD-&gt;BJ#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-286">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-153" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.67;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-213">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="22" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BD-&gt;BK#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.61;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-287">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-153" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.61;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-214">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-11" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BK-&gt;BL#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-288">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-214" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-215">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BM-&gt;BN#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.55;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-289">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-154" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.55;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-216">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-43" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BM-&gt;BO#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.56;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-290">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-154" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.56;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-217">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-76" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BM-&gt;BP#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.6;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-291">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-154" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.6;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-218">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-109" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BM-&gt;BQ#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.7;exitY=0;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-292">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-154" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.7;exitY=0;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-219">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-141" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BM-&gt;BR#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-293">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-154" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-220">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BM-&gt;BS#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.7;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-294">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-154" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.7;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-221">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-206" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BM-&gt;BT#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.6;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-295">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-154" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.6;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-222">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-239" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BM-&gt;BV#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.56;exitY=1;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-296">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-154" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.56;exitY=1;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-223">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-272" y="602" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:BT-&gt;BU#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-297">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-222" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" target="uzkwoz7WG_x8HCC-XpM7-224">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
