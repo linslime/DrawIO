@@ -387,7 +387,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" mermaidId="e:A-&gt;BD#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;" mermaidBaseValue="" id="uzkwoz7WG_x8HCC-XpM7-226">
-          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-151" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=#82b366;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;" target="uzkwoz7WG_x8HCC-XpM7-153">
+          <mxCell edge="1" parent="uzkwoz7WG_x8HCC-XpM7-298" source="uzkwoz7WG_x8HCC-XpM7-151" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;horizontal=0;sketch=1;curveFitting=1;jiggle=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" target="uzkwoz7WG_x8HCC-XpM7-153">
             <mxGeometry relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
