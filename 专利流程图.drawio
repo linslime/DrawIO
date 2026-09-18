@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="s5u0xnMzudzFodGKwyMl">
-    <mxGraphModel dx="639" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,22 +8,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zrIE7zuguSlpdhQHPTv4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="构建量化模块" vertex="1">
-          <mxGeometry height="60" width="150" x="340" y="80" as="geometry" />
+          <mxGeometry height="60" width="160" x="340" y="80" as="geometry" />
         </mxCell>
         <mxCell id="zrIE7zuguSlpdhQHPTv4-6" edge="1" parent="1" source="zrIE7zuguSlpdhQHPTv4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zrIE7zuguSlpdhQHPTv4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zrIE7zuguSlpdhQHPTv4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" value="构建深度神经网络并初始化" vertex="1">
-          <mxGeometry height="60" width="150" x="340" y="187" as="geometry" />
+        <mxCell id="zrIE7zuguSlpdhQHPTv4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" value="构建神经编解码网络并初始化" vertex="1">
+          <mxGeometry height="60" width="160" x="340" y="187" as="geometry" />
         </mxCell>
         <mxCell id="zrIE7zuguSlpdhQHPTv4-7" edge="1" parent="1" source="zrIE7zuguSlpdhQHPTv4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zrIE7zuguSlpdhQHPTv4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zrIE7zuguSlpdhQHPTv4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" value="训练深度神经网络" vertex="1">
-          <mxGeometry height="60" width="150" x="340" y="293" as="geometry" />
+        <mxCell id="zrIE7zuguSlpdhQHPTv4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" value="训练神经编解码网络" vertex="1">
+          <mxGeometry height="60" width="160" x="340" y="293" as="geometry" />
         </mxCell>
         <mxCell id="zrIE7zuguSlpdhQHPTv4-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="完成模型推理" vertex="1">
-          <mxGeometry height="60" width="150" x="340" y="400" as="geometry" />
+          <mxGeometry height="60" width="160" x="340" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
